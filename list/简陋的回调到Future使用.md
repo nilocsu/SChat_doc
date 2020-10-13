@@ -2,7 +2,7 @@
 
 回顾一下： 
 
-![TEKF9idfadakjfald](images\TEKF9idfadakjfald.png)
+![TEKF9idfadakjfald](images\TEKF9idfadakjfald.png?raw=true)
 
 
 
