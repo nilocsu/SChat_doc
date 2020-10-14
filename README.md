@@ -1,4 +1,4 @@
-# SChat_doc
+# SChat
 
 这里做SChat 的技术文章分享
 
